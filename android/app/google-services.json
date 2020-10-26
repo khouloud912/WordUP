@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271959169760",
+    "firebase_url": "https://mini-projet-3ab57.firebaseio.com",
+    "project_id": "mini-projet-3ab57",
+    "storage_bucket": "mini-projet-3ab57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271959169760:android:4206fa91b9f41b4df8ce85",
+        "android_client_info": {
+          "package_name": "com.example.designcompetition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271959169760-cr7o24eiojcob1v8e4n3bk1b7fp954km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUny0JKPwTcDMKc5uHnWzBQIr97kROAFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271959169760-cr7o24eiojcob1v8e4n3bk1b7fp954km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
